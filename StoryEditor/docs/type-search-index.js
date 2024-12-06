@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"StoryEditor","l":"App"},{"p":"StoryEditor","l":"StoryEditorGUI"},{"p":"StoryEditor","l":"StoryWriter"},{"p":"StoryEditor","l":"WordChooser"},{"p":"StoryEditor","l":"WordFileReader"}];updateSearchResults();
